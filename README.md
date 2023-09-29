@@ -70,7 +70,7 @@ Returns the number of items in the list that are between the lower and upper bou
 
 ## Setup
 
-> This project uses Python 3.10, other python versions may work, but it is not guaranteed.
+> I am using Python 3.9, however other versions can be supported too.
 
 - Clone the repo.
 - cd to the folder.
